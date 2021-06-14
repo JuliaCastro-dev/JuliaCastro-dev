@@ -5,7 +5,7 @@
 - :mag: Em busca de oportunidade de trabalho
 
 # :computer: Meu objetivo na programação
- Me indentifiquei bastante com o desenvolvimento web, busco ampliar meus conhecimentos me tornando fullstack e sempre que possível explorar outras áreas de desenvolvimento.
+  Busco ampliar meus conhecimentos me tornando fullstack.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaCastro-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
