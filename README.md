@@ -1,5 +1,5 @@
 ### Olá, eu sou a Julia 👋
-![](https://media.giphy.com/media/Y84wk451UTeEt2XhMv/giphy.gif)
+![](https://media.giphy.com/media/JoUqyd53KRMAsI127E/giphy.gif)
 
 - :mortar_board: Atualmente Estudante em Desesenvolvimento de sistemas na ETEC BASILIDES DE GODOY
 - :mag: Em busca de oportunidade de trabalho
