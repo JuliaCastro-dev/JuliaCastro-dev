@@ -6,6 +6,9 @@
 
 # :computer: Meu objetivo na programação
   Busco ampliar meus conhecimentos me tornando fullstack.
+  
+# :trophy: Conquistas 
+- Certificado de Melhor Desenvolvedora Front-end do curso técnico em desenvolvimento de sistemas 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaCastro-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
