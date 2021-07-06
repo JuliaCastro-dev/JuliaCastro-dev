@@ -1,7 +1,7 @@
 # Olá, eu sou a Julia 👋
 ![](https://media.giphy.com/media/JoUqyd53KRMAsI127E/giphy.gif)
 
-- :mortar_board: Atualmente Estudante em Desesenvolvimento de sistemas na ETEC BASILIDES DE GODOY
+- :mortar_board: Técnica em Desesenvolvimento de sistemas
 - :mag: Em busca de oportunidade de trabalho
 
 # :computer: Meu objetivo na programação
