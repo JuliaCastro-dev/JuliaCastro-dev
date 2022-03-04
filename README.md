@@ -2,7 +2,6 @@
 ![](https://media.giphy.com/media/JoUqyd53KRMAsI127E/giphy.gif)
 
 - :mortar_board: Técnica em Desesenvolvimento de sistemas
-- :mag: Em busca de oportunidade de trabalho
 
 # :computer: Meu objetivo na programação
   Busco ampliar meus conhecimentos me tornando fullstack.
