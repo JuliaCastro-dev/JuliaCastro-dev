@@ -1,15 +1,18 @@
+<img align="right" alt="HTML" height="300" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"> 
+
 # Olá, eu sou a Julia 👋
 
-Com 3 Anos de experiência em programção possuo conhecimento nas pricipais tecnologias do mercado. Atualmente trabalho na área atuando como desenvoledora júnior fullstack.
+Com 3 Anos de experiência em programção possuo conhecimento nas pricipais tecnologias do mercado.
+Atualmente trabalho na área atuando como desenvoledora júnior fullstack.
+
 
 - :mortar_board: Técnica em Desesenvolvimento de sistemas
 
 # :computer: Meu objetivo na programação
 Tenho o objetivo de aprofundar meus conhecimentos em Marchine Learning, Inteligência Artificial e Data Science, pois sou apaixonada em tecnologia e quero estar dentro desse mundo de inovação.
 
-# :computer: Tecnologias
-Tenho o objetivo de aprofundar meus conhecimentos em Marchine Learning, Inteligência Artificial e Data Science, pois sou apaixonada em tecnologia e quero estar dentro desse mundo de inovação.
-## <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+# :computer: Tecnologias e Ferramentas
+## <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
 
 
 # :trophy: Conquistas 
