@@ -1,12 +1,12 @@
 <img align="right" alt="HTML" height="300" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"> 
 
 # Olá, eu sou a Julia 👋
-
-Com 3 Anos de experiência em programção possuo conhecimento nas pricipais tecnologias do mercado.
-Atualmente trabalho na área atuando como desenvoledora júnior fullstack.
+Dev fullstack atualmente com foco em Front-end Mobile.
 
 
-- :mortar_board: Técnica em Desesenvolvimento de sistemas
+- :mortar_board:
+- Cursando Engenharia de software na FIAP
+- Técnica em Desesenvolvimento de sistemas
 
 # :computer: Meu objetivo na programação
 Tenho o objetivo de aprofundar meus conhecimentos em Machine Learning, Inteligência Artificial e Data Science, pois sou apaixonada em tecnologia e quero estar dentro desse mundo de inovação.
