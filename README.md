@@ -1,7 +1,7 @@
 <img align="right" alt="HTML" height="300" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"> 
 
 # Olá, eu sou a Julia 👋
-Dev fullstack atualmente com foco em Front-end Mobile.
+meu foco principal é desenvolvimento Mobile, onde tenho maior conhecimento e quero me especializar. Porém também consigo atuar no back-end e no desenvolvimento web.
 
 
 - :mortar_board:
