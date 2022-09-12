@@ -1,15 +1,14 @@
 <img align="right" alt="HTML" height="300" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"> 
 
 # Olá, eu sou a Julia 👋
-meu foco principal é desenvolvimento Mobile, onde tenho maior conhecimento e quero me especializar. Porém também consigo atuar no back-end e no desenvolvimento web.
+Desenvolvedora Full=stack
 
-
-- :mortar_board:
-- Cursando Engenharia de software na FIAP
-- Técnica em Desesenvolvimento de sistemas
+- :mortar_board: Cursando Engenharia de software na FIAP
+- :mortar_board: Técnica em Desesenvolvimento de sistemas
 
 # :computer: Meu objetivo na programação
-Tenho o objetivo de aprofundar meus conhecimentos em Machine Learning, Inteligência Artificial e Data Science, pois sou apaixonada em tecnologia e quero estar dentro desse mundo de inovação.
+Meu Objetivo é ser Full-stack com especialização em Mobile.
+
 
 # :computer: Tecnologias e Ferramentas
 ## <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg">  
