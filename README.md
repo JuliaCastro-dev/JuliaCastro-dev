@@ -26,3 +26,6 @@
 - ## Certificate of Best Front-end Developer of the technical course in systems development 
 ![](https://media.giphy.com/media/T4u44opGYSKE8mX3wJ/giphy.gif)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaCastro-dev&count_private=true)](https://github.com/JuliaCastro-dev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCastro-dev&layout=compact)](https://github.com/JuliaCastro-dev/github-readme-stats)
