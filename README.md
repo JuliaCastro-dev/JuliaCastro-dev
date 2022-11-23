@@ -9,13 +9,12 @@
 <a href="https://www.linkedin.com/in/julia-castro-nóbrega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-- ### :mortar_board: Studying Software Engineering - FIAP
-
-- ###  :mortar_board: Systems development technique
-
 # 💫 About Me:
-🔭 I’m currently working on ATP International<br>🌱 I’m currently learning SOLID, C# .NET<br>💬 Ask me about React Native<br>⚡ Fun fact: I love music, I've already changed several instruments like: cello, guitar, saxophone, bass... but with the rush I ended up putting music aside, but I intend to go back.
+- ### 🔭 I’m currently working on ATP International
+- ### :mortar_board: I'm currently studying Software Engineering on FIAP
+- ### 🌱 I’m currently learning SOLID, C# .NET
+- ### 💬 Ask me about React Native
+- ### ⚡ Fun fact: I love music, I've already changed several instruments like: cello, guitar, saxophone, bass... but with the rush I ended up putting music aside, but I intend to go back.
 
 
 
