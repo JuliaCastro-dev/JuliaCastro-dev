@@ -12,7 +12,7 @@
 # 💫 About Me:
 - ### 🔭 I’m currently working on ATP International
 - ### :mortar_board: I'm currently studying Software Engineering on FIAP
-- ### 🌱 I’m currently learning SOLID, C# .NET
+- ### 🌱 I’m currently learning SOLID, Firebase, React Query
 - ### 💬 Ask me about React Native
 - ### ⚡ Fun fact: I love music, I've already changed several instruments like: cello, guitar, saxophone, bass... but with the rush I ended up putting music aside, but I intend to go back.
 
