@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-- ### 🔭 I’m currently working on ATP International
+- ### 🔭 I’m currently working on TradeUp Group | Desenvolvedora Mobile
 - ### :mortar_board: I'm currently studying Software Engineering on FIAP
 - ### 🌱 I’m currently learning SOLID, Firebase, React Query
 - ### 💬 Ask me about React Native
